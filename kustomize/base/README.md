@@ -1,14 +1,14 @@
 ## Kubernetes Deployment Manifests
-This path is to add Kubernetes Manifests YAML.
+This path is to add Kubernetes Manifests YAML.  
 
-Examples of resources that you would add here,
-  - Deployment
-  - Service
-  - StatefulSet
-  - DaemonSet
+Examples of resources that you would add here, 
+  - Deployment 
+  - Service 
+  - StatefulSet 
+  - DaemonSet 
   - Job
-  - CronJob
+  - CronJob  
   - PersistentVolumeClaim
 
-In fact it could be any resource that you would apply to kubernetes.
+In fact it could be any resource that you would apply to kubernetes. 
 

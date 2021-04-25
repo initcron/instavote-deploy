@@ -3,21 +3,21 @@ This path is to add Deployment Manifests which are Synced by Flux to Deploy to a
 
 Example of the resources you could add here,
 
-Sources:
-  - GitRepository
-  - HelmRepository
-  - Bucket
+Sources: 
+  - GitRepository 
+  - HelmRepository 
+  - Bucket 
 
-Deployment:
-  - HelmRelease
+Deployment: 
+  - HelmRelease 
   - Kustomization (Flux App Deployment)
 
-Notification:
-  - Alert
+Notification: 
+  - Alert 
   - Provider
-  - Receiver
+  - Receiver 
 
-Image Automation:
+Image Automation: 
   - ImageRepository
   - ImagePolicy
   - ImageUpdateAutomation
